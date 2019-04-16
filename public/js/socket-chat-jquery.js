@@ -94,9 +94,6 @@ function scrollBottom() {
     }
 }
 
-
-
-
 // Listeners
 divUsuarios.on('click', 'a', function() {
 
